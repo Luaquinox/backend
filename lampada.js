@@ -13,5 +13,6 @@ function lampOn(){
     function lampOff(){
     if(!isLampBroken()){
         lamp.scr= '.desligada.jpg';
+    
     }
 }
